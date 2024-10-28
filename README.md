@@ -16,8 +16,8 @@ Este projeto contém uma aplicação básica composta por dois microsserviços u
 
 1. Clone o repositório e navegue até a pasta do projeto:
     ```bash
-    git clone <url-do-seu-repositorio>
-    cd <nome-do-repositorio>
+    git clone https://github.com/Gabiru-cpu/Docker-microservices-DIO.git
+    cd Docker-microservices-DIO
     ```
 
 2. Inicie os containers:
